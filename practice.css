@@ -1,0 +1,84 @@
+.container{
+    border: 0px solid black;
+}
+#hiking{
+    width: 80%;
+    height: 400px;
+}
+#btn{
+    background-color: lightcoral;
+    color: white;
+}
+#ul{
+    list-style: none;
+    text-align: center;
+}
+#ul li{
+    display: inline-block;
+    padding: 15px 10px 15px 10px;
+}
+#cursive{
+    font-size: 30px;
+    font-family: cursive;
+}
+#beige{
+    background-color: bisque;
+    width: 100%;
+    text-align: center;
+
+}
+#oh{
+    font-size: 35px;
+    font-family: cursive;
+    padding: 20px;
+}
+#hannah{
+    width: 400px;
+    height: 650px;
+}
+#p{
+    padding: 100px;
+}
+#bb{
+    background-color: lightcoral;
+    color: white;
+    text-align: center;
+}
+#for{
+    width: 350px;
+    height: 200px;
+
+}
+#bg{
+    background-color: darkslateblue;
+    width: 100%;
+    border: 0px solid green;
+}
+.col{
+    text-align: center;
+}
+#for{
+    width: 250px;
+    height: 250px;
+    margin-bottom: 0px;
+}
+.bn{
+    background-color: lightcoral;
+    color: white;
+    display: inline-block;
+}
+#content{
+    background-color:whitesmoke;
+}
+/* #imgg{
+    z-index: -1;
+    position: absolute;
+} */
+.row{
+    /* width: 100%; */
+}
+#the{
+    /* width: 300px; */
+    /* height:300px */
+    padding: 10px;
+}
